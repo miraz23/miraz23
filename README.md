@@ -3,7 +3,7 @@
 <br><br>
 <img align="right" alt="Coding" width="300" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBzYnBtOHp0aWY5NWY0NXdvaWp1cXNsd2xmeWc2ajZiMDAyYzN2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **mohiulislam23@gmail.com**
 <br><br>
